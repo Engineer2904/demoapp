@@ -1,0 +1,12 @@
+Hello World!
+git init
+git add ./file name ( . means to add all the files in the repository)
+git config --global user.name"yourname"  //telling your name to git
+
+3 labels->
+local
+system
+global
+git config --global user.email"yourmail" 
+git commit -m "initial commit"
+                                           
